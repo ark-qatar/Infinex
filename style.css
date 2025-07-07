@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button{
+    background-color: cyan;
+    width: 100x;
+    height: 50px;
+    font-size: 20px;
+}
